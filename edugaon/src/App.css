@@ -1,0 +1,32 @@
+.gradient {
+  background: black;
+  height: 300px;
+}
+.gredtext {
+  padding: 50px;
+  color: white;
+  word-spacing: 0%;
+  width: 800px;
+  font-size: 26px;
+}
+
+.footers {
+  background: black;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  height: 300px;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+.my{
+    background: rgb(168,188,188);
+background: linear-gradient(0deg, rgba(168,188,188,1) 0%, rgba(166,101,206,1) 0%);
+}
+.menu{
+  color: white;
+  font-size: 16px;
+  text-transform:capitalize;
+}
